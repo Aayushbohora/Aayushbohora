@@ -58,5 +58,25 @@
 <p align="center">
   <a href="mailto:<!--
   README.md for Nepomodz & Aayush GitHub Profile
--->
+--><p align="center">
+  <a href="aayush321a1@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-nepmods@proton.me-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Aayushbohora/Aayushbohora.git" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Nepomodz-181717?style=for-the-badge&logo=github" alt="Nepomodz GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Aayushbohora" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Aayush-181717?style=for-the-badge&logo=github" alt="Aayush GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://nexchats.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-arjunkattel.com.np-4CAF50?style=for-the-badge&logo=internet-explorer" alt="Website"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><em>Thanks for stopping by! Keep building and stay curious 🔥</em></p>
 
