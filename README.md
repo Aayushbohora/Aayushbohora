@@ -47,9 +47,10 @@
 
 ## 🎯 Hobbies & Interests
 
-- 🚀 Rocketry — fascinated by building and understanding rockets  
-- 🔭 Astronomy — exploring the stars and the universe  
-- 💻 Programming — coding everything from mods to apps  
+- 🚀 Rocketry — fascinated by building and understanding rockets and creating a model rocket
+- 🔭 Astronomy — exploring the stars and the universe planets
+- 💻 Programming — coding everything from mods to apps
+-  🎯 Intrested in learning everything this is my aim
 
 ## 📊 GitHub Stats
 
