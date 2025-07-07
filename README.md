@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nepomodz (Aayush)</h1>
-<h3 align="center">🚀 A Small Programmer From Nepal | Founder of <a href="http://webnepal.tech" target="_blank">WebNepal</a></h3>
+<h3 align="center">🚀 A Small Programmer From Nepal | Founder of <a href="https://webnepal1.netlify.app/" target="_blank">WebNepal</a></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%F0%9F%90%8D%20Python%20100%25-blue?style=for-the-badge" />
