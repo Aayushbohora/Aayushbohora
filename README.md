@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Our Tech Stack
+## 🛠️ My Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
@@ -44,10 +44,17 @@
 
 ---
 
+
+## 🎯 Hobbies & Interests
+
+- 🚀 Rocketry — fascinated by building and understanding rockets  
+- 🔭 Astronomy — exploring the stars and the universe  
+- 💻 Programming — coding everything from mods to apps  
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="Nepomodz's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nepmods&show_icons=true&theme=radical" width="48%" />
+
   <img alt="Aayush's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Aayushbohora&show_icons=true&theme=radical" width="48%" />
 </p>
 
@@ -72,7 +79,7 @@
   </a>
   &nbsp;
   <a href="https://nexchats.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Website-(https://nexchats.netlify.app/)-4CAF50?style=for-the-badge&logo=internet-explorer" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-https://nexchats.netlify.app/-4CAF50?style=for-the-badge&logo=internet-explorer" alt="Website"/>
   </a>
 </p>
 
