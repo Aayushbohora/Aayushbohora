@@ -60,7 +60,7 @@
   README.md for Nepomodz & Aayush GitHub Profile
 --><p align="center">
   <a href="aayush321a1@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-nepmods@proton.me-red?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-aayush321a1@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://github.com/Aayushbohora/Aayushbohora.git" target="_blank" rel="noopener noreferrer">
@@ -72,7 +72,7 @@
   </a>
   &nbsp;
   <a href="https://nexchats.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Website-arjunkattel.com.np-4CAF50?style=for-the-badge&logo=internet-explorer" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-(https://nexchats.netlify.app/)-4CAF50?style=for-the-badge&logo=internet-explorer" alt="Website"/>
   </a>
 </p>
 
